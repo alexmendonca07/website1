@@ -3,7 +3,7 @@ bg = document.querySelector('.bg')
 
 load = 0
 
-
+int = setInterval(blurring, )
 
 function blurring() {
     load++
