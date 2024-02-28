@@ -8,5 +8,5 @@ body {
 
 .container {
     width:90vw;
-    
+    display: flex;
 }
