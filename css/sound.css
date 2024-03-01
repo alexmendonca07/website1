@@ -2,7 +2,7 @@
 
 body {
     font-family: "Open Sans", sans-serif;
-    background-color: lightblue;
+    background-color: skyblue;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -15,7 +15,7 @@ body {
     height: 40px;
     font-size: 15px;
     color: white;
-    background-color: skyblue;
+    background-color: blue;
     padding: 15px;
     border: 0;
     margin: 5px;
