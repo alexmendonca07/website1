@@ -1,8 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
+* {
+    box-sizing: border-box;
+}
+
 body {
     font-family: "Open Sans", sans-serif;
-    background-color: skyblue;
+    background-color: rebeccapurple;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -12,11 +16,16 @@ body {
 
 
 .btn {
-    height: 40px;
-    font-size: 15px;
-    color: darkblue;
-    background-color: aliceblue;
-    padding: 15px;
+    height: 50px;
+    font-size: 1rem;
+    color: whitesmoke;
+    background-color: mediumpurple;
+    padding: 1rem;
     border: 0;
     margin: 5px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: darkviolet;
 }
