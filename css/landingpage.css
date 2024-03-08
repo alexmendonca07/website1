@@ -90,4 +90,5 @@ button, input[type='submit'] {
     padding: 10px;
     margin: 0 auto;
     width: 800px;
+    max-width: 100%;
 }
