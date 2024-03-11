@@ -1,6 +1,7 @@
 
 :root {
-    --modal-duration = 1s;
+    --modal-duration: 1s;
+    --primary-color: rgb()
 }
 
 body {
