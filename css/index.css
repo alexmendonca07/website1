@@ -13,9 +13,12 @@ body {
 body h1 {
     font-size: 25px;
     color: azure;
+    text-align: center;
 }
 
 body a {
     color: deepskyblue;
     font-size: 15px;
+    text-decoration: none;
+    text-align: center;
 }

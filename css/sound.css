@@ -2,11 +2,11 @@
 
 * {
     box-sizing: border-box;
+    background-color: rgb(10,10,11);
 }
 
 body {
     font-family: "Open Sans", sans-serif;
-    background-color: rebeccapurple;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -19,7 +19,7 @@ body {
     height: 50px;
     font-size: 1rem;
     color: whitesmoke;
-    background-color: mediumpurple;
+    background-color: rgb(60,60,62);
     padding: 1rem;
     border: 0;
     margin: 5px;
@@ -27,5 +27,5 @@ body {
 }
 
 .btn:hover {
-    background-color: darkviolet;
+    color: deepskyblue;
 }

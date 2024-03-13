@@ -2,5 +2,9 @@ btn = document.querySelector('.btn')
 search = document.querySelector('.search')
 
 btn.addEventListener('click', () => {
-    search.classList.add('active')
+    if (search.classList == 'search active') {
+        search.classList.remove('active')
+    } else {
+        search.classList.add('active')
+    }
 })
